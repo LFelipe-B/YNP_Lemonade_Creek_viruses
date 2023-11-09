@@ -23,5 +23,13 @@ script_to_run_HGT_index_analysis_publication.sh
 Input file example to run HGT index analysis "script_to_run_HGT_index_analysis_publication.sh" (other files are too large to upload but please contact me for other viral classes files)
 List_Arfiviricetes_vir_vir_scaff_prot.faa.diamond_blastp_RefSeqComplete.outfmt6.tsv
 
+Genomic_protein_composition_analysis_publication.sh
+scripts to run composition analysis using as input protein and nucleotide fasta sequences in the R environment using seqinr package
+
+Input file example to run composition analysis using genomic (nucleotides *nucl.fna) and protein data (*prot.faa)
+bin.750_prodigal_nucl.fna
+bin.750_prodigal_prot.faa
+
+
 
 
