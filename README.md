@@ -1,4 +1,4 @@
-# scripts for the study conducted at the Lemonade Creek at YNP (USA)
+# scripts and data to perform some analysis in virome data from the study conducted at the Lemonade Creek at YNP (USA)
 
 Files:
 
