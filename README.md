@@ -10,3 +10,9 @@ Diamond BLASTp output file with edition to include the scaffold name: CreekBiofi
 script to classify scaffold based on protein matches where a TRUE viral scaffold will contain more than 60% best hits with viruses
 Get_viral_scaffold_approx_class_V3_publication.py
 
+All against all Diamond BLASTp example file as an input to a protein similarity network analysis
+All_proteins_METAG_NR_IMGV_CLUSTERS_DB_diamondblastp_out_edit_example.tsv
+
+script to remove best blast reciprocal hits (BBRH)
+Remove_best_blast_reciprocal_hit_BBRH_publication.py
+
