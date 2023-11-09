@@ -20,8 +20,8 @@ Remove_best_blast_reciprocal_hit_BBRH_publication.py
 script to run inside python environment using an diamond BLASTp result, organized according to viral class
 script_to_run_HGT_index_analysis_publication.sh
 
-Input files to run HGT index analysis "script_to_run_HGT_index_analysis_publication.sh"
-Viral_classes_prot.faa.diamond_blastp_RefSeqComplete.outfmt6.tsv.zip
+Input file example to run HGT index analysis "script_to_run_HGT_index_analysis_publication.sh" (other files are too large to upload but please contact me for other viral classes files)
+List_Arfiviricetes_vir_vir_scaff_prot.faa.diamond_blastp_RefSeqComplete.outfmt6.tsv
 
 
 
